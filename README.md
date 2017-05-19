@@ -4,11 +4,11 @@ Here you will find questions that are most asked in our #tech-support channel.
 
 ### Root
 
-What is root?
+##What is root?
 
 In short,it allows you to do things that would require privilege that you would not normally have a non-rooted system.Think of it as the Windows Administrator system,on windows you would need admin privileges to run a program,if you didn’t have that permission the program wouldn’t run.Same applies to root,it would not allow you to run say an ad-blocker or a theme app such as Substratum.
 
-Alright,so what do I get with root?
+##Alright,so what do I get with root?
 
 You can enjoy features such as :-
 -Extensive Theming (Substratum)
@@ -17,7 +17,7 @@ You can enjoy features such as :-
 -Xposed (before nougat)
 and many more!
 
-Sounds cool but,what are the cons?
+##Sounds cool but,what are the cons?
 
 Unfortunately,they are some cons :-
 
@@ -25,7 +25,7 @@ Unfortunately,they are some cons :-
 -Warranty becomes obsolete (most of the time)
 -Chance of bricking your device
 
-Bricking,that sounds scary!
+##Bricking,that sounds scary!
 
 Most of the time,bricking is quite scary.There are two types of bricking :-
 Soft Bricking
@@ -44,15 +44,3 @@ Rooting a phone that came out a few months ago such as the s8/s8+ is strictly il
 
 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Analysed/r-android-tsfaq/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
