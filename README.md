@@ -4,11 +4,11 @@ Here you will find questions that are most asked in our #tech-support channel.
 
 ### Root
 
-##What is root?
+### What is root?
 
 In short,it allows you to do things that would require privilege that you would not normally have a non-rooted system.Think of it as the Windows Administrator system,on windows you would need admin privileges to run a program,if you didn’t have that permission the program wouldn’t run.Same applies to root,it would not allow you to run say an ad-blocker or a theme app such as Substratum.
 
-##Alright,so what do I get with root?
+### Alright,so what do I get with root?
 
 You can enjoy features such as :-
 -Extensive Theming (Substratum)
@@ -17,7 +17,7 @@ You can enjoy features such as :-
 -Xposed (before nougat)
 and many more!
 
-##Sounds cool but,what are the cons?
+### Sounds cool but,what are the cons?
 
 Unfortunately,they are some cons :-
 
@@ -25,7 +25,7 @@ Unfortunately,they are some cons :-
 -Warranty becomes obsolete (most of the time)
 -Chance of bricking your device
 
-##Bricking,that sounds scary!
+### Bricking,that sounds scary!
 
 Most of the time,bricking is quite scary.There are two types of bricking :-
 Soft Bricking
